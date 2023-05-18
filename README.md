@@ -1,4 +1,5 @@
-# Earnings Forecasting: Statistical & Machine Learning Models | NLP Sentiment Analysis | Topic Modeling  
+# Earnings Forecasting: 
+## Statistical Machine Learning Models | NLP Sentiment Analysis | Topic Modeling  
 Developing research-based earnings forecasting models using data scraped from Compustat, IBES &amp; WRDS.
 
 Research-based models leveraged:
